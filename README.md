@@ -132,6 +132,13 @@
 
 
 
+### 2차과제 실행결과
+<img width="835" height="729" alt="실행결과1" src="https://github.com/user-attachments/assets/9cc7fc5d-9ce4-4258-8687-0f84d3ac2258" />
+<img width="823" height="637" alt="실행결과2" src="https://github.com/user-attachments/assets/2869e49f-4ee6-424c-abf6-e51ae2d4c228" />
+
+
+
+
 
 
 
