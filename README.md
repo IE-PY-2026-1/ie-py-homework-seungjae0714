@@ -179,12 +179,6 @@
 
 
 
- 3. **내용 3**
- * **프롬프트 요약:** 
-    * **적용 내용:** 
-
-
-
 
 
     
@@ -195,15 +189,6 @@
 
 
 
-  2. **문제 2:** 
-     * **원인:** 
-     * **해결:** 
-    
-
-
-  3. **문제 3:** 
-     * **원인:** 
-     * **해결:** 
 
 
 
@@ -219,6 +204,7 @@
 
 
 ### 3차과제 실행결과
+
 <img width="827" height="820" alt="파이썬 3차과제 실행내용1" src="https://github.com/user-attachments/assets/64710e28-cb65-4ff7-b91d-6ace6ab75779" />
 <img width="795" height="789" alt="파이썬 3차과제 실행내용2" src="https://github.com/user-attachments/assets/397c548e-9b58-47b4-babc-a07926b8f3a3" />
 <img width="902" height="773" alt="파이썬 3차과제 실행내용3" src="https://github.com/user-attachments/assets/f114981f-8c0a-48e1-b859-f90a4903a5a0" />
